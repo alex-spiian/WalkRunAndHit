@@ -7,8 +7,8 @@ Movement behavior.
 Hero control:  
 "W" - to walk forward;  
 "S" - to walk back;  
-"D" - to rotate to the right;  
-"A" - to rotate to the left;  
+"D" - to rotate right;  
+"A" - to rotate left;  
 "W + left shift" - to run;  
 "Space" - to hit with a sword;  
  
