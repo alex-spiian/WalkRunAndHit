@@ -14,5 +14,3 @@ Hero control:
  
 ### Preview
 ![](https://github.com/alex-spiian/WalkRunAndHit/blob/main/Gifs/preview.gif)  
-
-.
